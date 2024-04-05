@@ -1,0 +1,74 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Redux",
+      "status": true
+    },
+    {
+      "id": "2",
+      "title": "Learn typescript",
+      "status": false
+    },
+    {
+      "id": "3",
+      "title": "Learn javascript",
+      "status": true
+    },
+    {
+      "id": "1712234113603",
+      "title": "learning dsa",
+      "status": true
+    },
+    {
+      "id": "1712237244780",
+      "title": "add",
+      "status": false
+    },
+    {
+      "id": "1712250360900",
+      "title": "aaaaaa",
+      "status": true
+    },
+    {
+      "id": "1712253474829",
+      "title": "icecream",
+      "status": true
+    },
+    {
+      "id": "1712255234561",
+      "title": "ssss",
+      "status": false
+    },
+    {
+      "id": "1712255286217",
+      "title": "coffee",
+      "status": false
+    },
+    {
+      "id": "1712255310673",
+      "title": "tea",
+      "status": true
+    },
+    {
+      "id": "1712255432592",
+      "title": "lemon",
+      "status": false
+    },
+    {
+      "id": 1712294118668,
+      "title": "Learn chakra",
+      "status": false
+    },
+    {
+      "id": 1712294340846,
+      "title": "Learn pushups",
+      "status": false
+    },
+    {
+      "id": 1712298721191,
+      "title": "Learn gym",
+      "status": false
+    }
+  ]
+}
